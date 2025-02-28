@@ -1,10 +1,8 @@
-leve em consideração o readme do projeto
-
-# Shortest-closed-walk
+#Shortest-closed-walk
 
 Codigo desenvolvido durante a aula 18 da cadeira Teoria dos Grafos - Ufcg
 
-## Chinese Postman Problem 
+##Chinese Postman Problem 
 
 Alguns problemas como o Chinese Postman Problem demandam a definição de um passeio fechado de menor custo que inicia e termina em um mesmo vértice e percorre todas as arestas de um grafo. Não se trata da definição de um circuito de Euler, visto que arestas podem ser repetidas. No entanto, algoritmos para encontrar um circuito de Euler são comumente utilizados para auxiliar na definição deste passeio.
 
